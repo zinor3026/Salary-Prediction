@@ -12,14 +12,20 @@ I am aiming to use the following in the project:
       - Tableau for Visualizations
 
 ## Dataset
-The data is sourced from Kaggle. [https://www.kaggle.com/datasets/kingabzpro/cosmetics-datasets/data](https://www.kaggle.com/datasets/rkiattisak/salaly-prediction-for-beginer)
+The data is sourced from Kaggle. https://www.kaggle.com/datasets/thedevastator/jobs-dataset-from-glassdoor/data
 ### Data Components:
-    * Age
-    * Gender
-    * Education level
+    * Company Size
+    * Company
+    * Type of Ownership
     * Job Titile
-    * Years of Experience
-    * Salary
+    * Sector
+    * Skill sets
 
 ## Questions to answer
-What is the expected job salary given my background and experience?
+What is the expected job salary based on the company size, industry, and the Industry?
+
+## Directory
+ETL is performed in the jupyter notebook; ELT using Pandas.
+Visualizations are created on Tableau Notebook
+Database and machine learning model is created using SQL Spark and Scikit learn on Google colab and then downloaded as a jupyter notebook
+Presentation
