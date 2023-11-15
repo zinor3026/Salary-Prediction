@@ -25,7 +25,7 @@ The data is sourced from Kaggle. https://www.kaggle.com/datasets/thedevastator/j
 What is the expected job salary based on the company size, industry, and the Industry?
 
 ## Directory
-ETL is performed in the jupyter notebook; ELT using Pandas.
-Visualizations are created on Tableau Notebook
-Database and machine learning model is created using SQL Spark and Scikit learn on Google colab and then downloaded as a jupyter notebook
-Presentation
+- ETL is performed in the jupyter notebook; ELT using Pandas.
+- Visualizations are created on Tableau Notebook
+- Database and machine learning model is created using SQL Spark and Scikit learn on Google colab and then downloaded as a jupyter notebook. File Name: Salary Prediction.
+- Presentation
